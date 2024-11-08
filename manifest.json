@@ -1,8 +1,0 @@
-{
-"dependencies": 
-  {
-    "com.leoptam.ecslite.unityeditor": "https://github.com/Leopotam/ecslite-unityeditor",
-    "com.leopotam.ecslite": "https://github.com/Leopotam/ecslite.git",
-    "com.voody.unileolite": "https://github.com/voody2506/UniLeo-Lite.git"
-  }
-}
