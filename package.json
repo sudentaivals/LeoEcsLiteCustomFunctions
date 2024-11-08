@@ -1,11 +1,10 @@
 {
-    "name": "com.sudentaivals.leoecslitecustomfunctions",
+    "name": "com.sudentaivals.leo-ecs-lite-custom-functions",
     "version": "1.0.0",
-    "displayName": "Leo Ecs Lite Custom Functions",
-    "description": "Custom functions for Leo Ecs Lite",
-    "unity": "2021.3",
-    "author": 
-    {
-        "name": "Nikita Goncharov"
+    "displayName": "Leo ecs lite custom functions",
+    "description": "Package contains my Leo ecs lite custom functions",
+    "unity": "2019.1",
+    "author": {
+      "name": "Nikita Goncharov"
     }
-}
+  }
