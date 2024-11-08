@@ -1,0 +1,12 @@
+{
+    "name": "com.name.package", 
+    "version": "1.0.0", 
+    "displayName": "Leo Ecs Lite Custom Functions", 
+    "description": "Custom functions for Leo Ecs Lite", 
+    "dependencies": 
+    { 
+        "com.leoptam.ecslite.unityeditor": "https://github.com/Leopotam/ecslite-unityeditor.git",
+        "com.leopotam.ecslite": "https://github.com/Leopotam/ecslite.git",
+        "com.voody.unileolite": "https://github.com/voody2506/UniLeo-Lite.git"
+    }
+}
