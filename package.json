@@ -7,12 +7,5 @@
     "author": 
     {
         "name": "Nikita Goncharov"
-    },
-    "dependencies":
-     {
-        "com.coffee.git-dependency-resolver": "https://github.com/mob-sakai/GitDependencyResolverForUnity.git",
-        "com.leoptam.ecslite.unityeditor": "https://github.com/Leopotam/ecslite-unityeditor.git",
-        "com.leopotam.ecslite": "https://github.com/Leopotam/ecslite.git",
-        "com.voody.unileolite": "https://github.com/voody2506/UniLeo-Lite.git"
-     }
+    }
 }
