@@ -7,10 +7,5 @@
     "author": 
     {
       "name": "Nikita Goncharov"
-    },
-    "dependencies":
-     {
-      "com.leoptam.ecslite": "https://github.com/Leopotam/ecslite.git#2024.5.22"
-     }
-
+    }
   }
