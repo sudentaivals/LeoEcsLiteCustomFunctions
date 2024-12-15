@@ -5,6 +5,7 @@ using UnityEngine;
 namespace LeoEcsLiteCustomFunctions.Actions
 {
     //comment
+    //comment 2
     [CreateAssetMenu(menuName = "My Assets/Actions/Create action package")]
     public class ActionPackage : GameAction
     {
